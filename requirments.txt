@@ -1,0 +1,3 @@
+Needed dependencies:
+  numpy
+  time (not mandatory)
