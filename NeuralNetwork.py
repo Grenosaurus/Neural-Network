@@ -1,6 +1,6 @@
 """
  Neural network program for single neuron. Program is done for learning about neural network 
- in general (Made: Jauaries Loyala -- 08.04.2020).
+ in general (Made: Jauaries).
 """
 
 # Python packets
